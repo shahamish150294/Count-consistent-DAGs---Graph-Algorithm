@@ -22,4 +22,4 @@ Infection-pneumonia-viral pneumonia-bacterial pneumonia-meningitis
 
 
 This problem is formulated into a Tree/Graph problem whose description is given in the 'problem definition' and two algorithms are 
-provided. 
+provided.
