@@ -13,7 +13,7 @@ the following disorder hierarchy
                 pneumonia     pneumonia
 </pre>
 
-Following would be the combinations would: 
+Following would be the combinations: 
 <ul><li>Infection-pneumonia-viral pneumonia
 <li>Infection-pneumonia-bacterial pneumonia
 <li>Infection-pneumonia-viral pneumonia-meningitis
