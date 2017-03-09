@@ -1,5 +1,4 @@
 # Count-consistent-DAGs---Graph-Algorithm
-We propose two algorithms to count the number of consistent-DAGs.
 
 <p>
 In the field of biology and medicine, hierarchies (in the form of graphs and trees) are formed in various scenarios For example, consider 
